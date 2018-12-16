@@ -8,3 +8,17 @@
 * Part4 建筑风格 VS 建筑模式 VS 设计模式(https://herbertograca.com/2017/07/28/architectural-styles-vs-architectural-patterns-vs-design-patterns/)
 * Part5 单层架构(https://herbertograca.com/2017/07/31/monolithic-architecture/)
 * Part6 分层架构(https://herbertograca.com/2017/08/03/layered-architecture/)
+* Part7 MVC及其家族(https://herbertograca.com/2017/08/17/mvc-and-its-variants/)
+* Part8 总线（EBI）架构(https://herbertograca.com/2017/08/24/ebi-architecture/)
+* Part9 包装和命名空间(https://herbertograca.com/2017/08/31/packaging-code/)
+* Part10 
+* Part11
+* Part12
+* Part13
+* Part14
+* Part15
+* Part16
+* Part17
+* Part18
+* Part19
+* Part20
